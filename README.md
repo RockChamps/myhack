@@ -15,6 +15,22 @@ The dataset represents a **network of scientific fields extracted from Wikipedia
 - Visualize complex relationships
 - Enable **LLM-powered natural language queries** over the graph
 
+📊 Dataset Description
+📌 Dataset Name
+
+Wikipedia Science Knowledge Network (wiki_science)
+📍 Source
+
+The dataset is derived from Wikipedia, where scientific disciplines and fields are extracted and represented as a network (graph) structure.
+It is publicly available via Figshare and commonly used for knowledge graph analysis and semantic relatedness studies.
+
+🧠 What the Dataset Represents
+The dataset models scientific knowledge as a graph, where:
+Nodes represent scientific fields or disciplines
+Edges represent semantic relatedness between fields
+Edge weights are based on cosine similarity, indicating how closely two disciplines are related in terms of content and context
+This allows the dataset to capture interdisciplinary relationships across applied, natural, and theoretical sciences.
+
 ---
 <img width="2166" height="1342" alt="image" src="https://github.com/user-attachments/assets/cb1a718b-de94-40ca-9b6b-bbf2b624b3bd" />
 
