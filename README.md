@@ -15,6 +15,8 @@ The dataset represents a **network of scientific fields extracted from Wikipedia
 - Visualize complex relationships
 - Enable **LLM-powered natural language queries** over the graph
 
+---
+
 📊 Dataset Description
 📌 Dataset Name
 
