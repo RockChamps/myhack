@@ -26,6 +26,10 @@ The dataset represents a **network of scientific fields extracted from Wikipedia
 | `edges.csv` | Relationships with cosine similarity |
 | `gprops.csv` | Graph-level properties |
 
+Here is somthing by which you will understand in easy way :
+<img width="1054" height="1550" alt="image" src="https://github.com/user-attachments/assets/c1b493ec-747c-4264-8913-9c33d9a9baa5" />
+
+
 **Graph Statistics**
 - Nodes: **687**
 - Edges: **6,523**
